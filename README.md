@@ -25,10 +25,10 @@ El proyecto se desarrolló en el marco de Metodologías Ágiles Scrum y se gesti
 
 Integrantes del equipo:
 
-André Alvarez
-Jenifer Blandon Aranda
-Javier Boschi
-Marilyn Cabrera
-Lautaro Ruiz Díaz
-Marina Sanabria
-Henry Zambrano
+André Alvarez.
+Jenifer Blandon Aranda.
+Javier Boschi.
+Marilyn Cabrera.
+Lautaro Ruiz Díaz.
+Marina Sanabria.
+Henry Zambrano.

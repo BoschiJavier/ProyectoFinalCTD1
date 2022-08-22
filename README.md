@@ -1,4 +1,4 @@
-# ProyectoFinalCTD1
+#  <h1 align="center">ProyectoFinalCTD1 </h1>
 
 Proyecto Integrador realizado en el marco de Digital House
 
@@ -23,7 +23,7 @@ Creamos plantillas de testing para casos de pruebas y reportes de bugs, creació
 El proyecto se desarrolló en el marco de Metodologías Ágiles Scrum y se gestionó utilizando Gitlab en un repositorio privado de trabajo colaborativo y organizado.
 
 _________________________________________________
-Integrantes del equipo:
+<h1 align="center">Integrantes del equipo </h1>
 
 André Alvarez
 

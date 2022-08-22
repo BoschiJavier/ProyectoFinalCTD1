@@ -22,10 +22,11 @@ Creamos plantillas de testing para casos de pruebas y reportes de bugs, creació
 •Marco de trabajo:
 El proyecto se desarrolló en el marco de Metodologías Ágiles Scrum y se gestionó utilizando Gitlab en un repositorio privado de trabajo colaborativo y organizado.
 
-
+_________________________________________________
 Integrantes del equipo:
 
 André Alvarez
+
 Jenifer Blandon Aranda
 
 Javier Boschi

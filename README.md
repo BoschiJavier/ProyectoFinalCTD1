@@ -1,4 +1,4 @@
-#  <h1 align="center">ProyectoFinalCTD1 </h1>
+#  <h1 align="center">Proyecto Final CTD </h1>
 
 Proyecto Integrador realizado en el marco de Digital House
 

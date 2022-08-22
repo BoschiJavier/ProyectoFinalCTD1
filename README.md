@@ -26,7 +26,6 @@ El proyecto se desarrolló en el marco de Metodologías Ágiles Scrum y se gesti
 Integrantes del equipo:
 
 André Alvarez
-
 Jenifer Blandon Aranda
 
 Javier Boschi
